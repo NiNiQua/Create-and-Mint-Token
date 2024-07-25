@@ -14,7 +14,7 @@ To get stated with the project, you'll need too have Remix open it is a web-base
 - Open Remix in your web browser: https://remix.ethereum.org/
 - Create a new Solidity file by clicking on the "Create" button.
 - Copy and paste the contract code into the new file.
--
+
 Instead of copying and pasting the contract code, you can also import it directly.
 - Download the file and click "Open a File from your File System" to import the contract code into Remix.
 
